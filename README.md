@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Second-year **B.Sc Computer Science** student at **Guru Nanak College (Autonomous), Chennai** — CGPA 9.1
+- 🎓 Final-Year **B.Sc Computer Science** student at **Guru Nanak College (Autonomous), Chennai** — CGPA 9.1
 - 🧭 Placement Coordinator for my department
 - 🔭 Currently upskilling for **backend / data engineering** roles
 - 🌱 Working through **NPTEL — Database Management Systems (IIT Kharagpur)** for certification
