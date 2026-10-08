@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nithish 👋</h1>
-<h3 align="center">Backend & Data Engineering | B.Sc Computer Science</h3>
+<h3 align="center">Aspiring Backend & Data Engineer | B.Sc Computer Science</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Backend+Developer+in+Progress;Aspiring+Data+Engineer;Django+%7C+PostgreSQL+%7C+React;Building+real+systems%2C+not+just+demos" alt="Typing SVG" />
