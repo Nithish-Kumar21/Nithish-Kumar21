@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nithish 👋</h1>
-<h3 align="center">Aspiring Backend & Data Engineer | B.Sc Computer Science</h3>
+<h3 align="center">Aspiring Data Engineer | B.Sc Computer Science</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Backend+Developer+in+Progress;Aspiring+Data+Engineer;Django+%7C+PostgreSQL+%7C+React;Building+real+systems%2C+not+just+demos" alt="Typing SVG" />
@@ -11,11 +11,10 @@
 
 - 🎓 Final-Year **B.Sc Computer Science** student at **Guru Nanak College (Autonomous), Chennai** — CGPA 9.1
 - 🧭 Placement Coordinator for my department
-- 🔭 Currently upskilling for **backend / data engineering** roles
-- 🌱 Working through **NPTEL — Database Management Systems (IIT Kharagpur)** for certification
+- 🔭 Currently upskilling for **data engineering** roles
 - 🏗️ Built and shipped a full-stack **Laboratory Management System** for my college's chemistry department
 - 💼 Former intern at **Pentagon Innovations**, where I worked on an HRMS platform (Flutter + Dart Frog + MySQL)
-- 🎯 Long-term goal: **Big Data Engineering** at a product-based company
+- 🎯 Long-term goal
 - ⚡ Fun fact: I debug AI coding agents as often as I debug my own code
 
 ---
